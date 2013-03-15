@@ -28,3 +28,7 @@ Run the app
 ```
 $ node app.js
 ```
+
+# License
+
+MIT
