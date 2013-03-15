@@ -21,12 +21,10 @@ b.search("MooTools", function(error, response, body){
      console.log(body.SearchResponse.Web.Results[0]) 
 
 },{limit: 30})
-
 ```
 
 Run the app
 
 ```
 $ node app.js
-
 ```
