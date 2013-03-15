@@ -7,7 +7,6 @@ A simple client wrapper for Microsoft's Bing Search API v2.2 on Node.js.
 ```
 $ git clone git://github.com/thinkphp/node-bing.git
 $ npm install node-bing
-
 ```
 
 Touch app.js and add:
