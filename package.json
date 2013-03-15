@@ -1,0 +1,30 @@
+{
+    "author": "Adrian Statescu <mergesortv@gmail.com>",
+    "name": "binger",
+    "description": "A library for the Bing Search APIs",
+    "tags" : ["search", "bing"],
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/thinkphp/node-bing.git"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    },
+    "dependencies": {
+      "underscore": ">=1.2.0"
+      , "request": ">=2.1.0"
+      , "querystring": ">=0.0.1"
+    },
+    "bugs" : { 
+        "url" : "http://github.com/thinkphp/node-bing.js/issues"
+    },
+    "main" : "./index.js",
+    "scripts" : {
+      "test": ""
+    },
+    "licenses" : [{
+        "type" : "MIT",
+        "url" : "http://github.com/thinkphp/node-bing.js/raw/master/LICENSE"
+    }]
+}
