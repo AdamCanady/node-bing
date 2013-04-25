@@ -17,7 +17,7 @@
       , "querystring": ">=0.0.1"
     },
     "bugs" : { 
-        "url" : "http://github.com/thinkphp/node-bing.js/issues"
+        "url" : "http://github.com/thinkphp/node-bing/issues"
     },
     "main" : "./index.js",
     "scripts" : {
