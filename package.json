@@ -3,7 +3,7 @@
     "name": "binger",
     "description": "A library for the Bing Search APIs",
     "tags" : ["search", "bing"],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "git://github.com/thinkphp/node-bing.git"
@@ -25,6 +25,6 @@
     },
     "licenses" : [{
         "type" : "MIT",
-        "url" : "http://github.com/thinkphp/node-bing.js/raw/master/LICENSE"
+        "url" : "http://github.com/thinkphp/node-bing/raw/master/LICENSE"
     }]
 }
